@@ -19,8 +19,6 @@ Feel free to explore my work and connect with me if you’re interested!
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## Random quote
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittenover&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittenover&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
