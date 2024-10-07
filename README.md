@@ -21,4 +21,4 @@ Feel free to explore my work and connect with me if you’re interested!
 
 ## Random quote
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&quoteType=quote-for-the-day)
